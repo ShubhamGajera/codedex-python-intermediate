@@ -39,3 +39,17 @@ for term, meaning in genz_slang_dict.items():
     # Print the slang term followed by its meaning
     # print(term, ":", meaning)
     # print()  # Add an empty line for readability
+
+
+# 02. Find My Friends
+
+# Write code below 💖
+
+city=('juangadh',)
+f1=(51.507351,-0.127758)
+f2=(15.870032,100.992538)
+f3=(22.441650,73.866890)
+
+print("Latitude and Longitude of the furthest friend's location:", f1)
+ft = f1 + f2 + f3
+print("All friends' locations combined:", ft)
