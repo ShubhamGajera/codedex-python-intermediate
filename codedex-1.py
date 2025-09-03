@@ -53,3 +53,15 @@ f3=(22.441650,73.866890)
 print("Latitude and Longitude of the furthest friend's location:", f1)
 ft = f1 + f2 + f3
 print("All friends' locations combined:", ft)
+1
+
+# 03. Met Museum
+
+# Write code below 💖
+
+information = {'artis':'Unknown','period':'late Iron Age','date':'ca. 60 BCE'}
+
+print(information)
+print(information.keys())
+print(information.values())
+print(information.items())
