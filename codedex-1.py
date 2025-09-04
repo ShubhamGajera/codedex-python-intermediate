@@ -85,3 +85,20 @@ pyxis = {
 print('Printing the dictionary: ', pyxis)
 print('\nPrinting the keys: ', pyxis.keys())
 print('\nPrinting the values: ', pyxis.values())
+
+# 04. Fruit Cart
+
+# Write code below 💖
+
+set1 = {'banana','apple','guava'}
+set2 = {'apple','pineapple','papaya'}
+
+print(set1)
+print(set2)
+
+set_union=set1.union(set2)
+set_intersection=set1.intersection(set2)
+set_difference=set1.difference(set2)
+print(set_union)
+print(set_intersection)
+print(set_difference)
