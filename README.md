@@ -1,1 +1,1 @@
- # Intermediate - Python Codedex 
+ # Intermediate -Python Codedex  
